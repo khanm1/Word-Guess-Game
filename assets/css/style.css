@@ -1,0 +1,19 @@
+body {
+	background-color:burlywood;
+	margin: 0;
+	font-family: "Montserrat", "Avenir";
+}
+
+.container {
+	margin: 20px auto;
+    max-width: 600px;
+}
+.font-weight-bold{
+    color: blue;
+}
+#winsdiv{
+    color: green;
+}
+#lossedDiv{
+    color: red;
+}
